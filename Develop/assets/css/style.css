@@ -75,7 +75,7 @@ p{
     display: inline-block;
     margin-left: 20px;
 }
-/* all article combined given class: description */
+/* all article combined under name of description */
 .description {
     margin-bottom: 20px;
     padding: 50px;
@@ -107,7 +107,7 @@ p{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* all benefit info combined given class: step*/
+/* all benefit info combined given class step*/
 .step {
     margin-bottom: 32px;
     color: #ffffff;
