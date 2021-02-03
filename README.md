@@ -1,44 +1,57 @@
-# 01 HTML CSS Git: Code Refactor
+# 01 Challenge Horiseon
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+## Description 
 
-> Always leave the code you are editing a little cleaner than you found it.
+Introducing new seach engine optimizer: Project Horiseon, is here to increase your web accessbility
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+To take a first step to become a junior Developer, I think it would be a great chance for me to Refactor what is already been wonderfully made. The website itself is already systemetically made however I can little help to make this optimizer to increase accessbility just little more
 
-## User Story
+As I am refactoring I saw some of the Links and Attributes are not properly linked and selector and properies are not consolidated, yet some of them are easily recognizable. Doing all these works surely made me to chooes proper tags and selector and how they functions correctly. most importantly, how it is important to consolidated and refactoring.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
 
-## Acceptance Criteria
+## Usage 
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+Here are some quick overview of what I have done 
 
-## Review
 
-You are required to submit the following for review:
+![alt text](./Develop/assets/images/Screenshot 1.jpg)
+![alt text](./Develop/assets/images/Screenshot 2.jpg)
+![alt text](./Develop/assets/images/Screenshot 3.jpg)
 
-* The URL of the deployed application.
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+### Technology
+    - html
+    - css
+    - git
 
-- - -
+## Credits
+
+    - Richard Kim: richardyjkim (github)
+
+
+## License
+
+MIT License
+
+Copyright (c) [2021] [Richard Y Kim]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
