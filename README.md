@@ -9,16 +9,22 @@ To take a first step to become a junior Developer, I think it would be a great c
 
 As I am refactoring I saw some of the Links and Attributes are not properly linked and selector and properies are not consolidated, yet some of them are easily recognizable. Doing all these works surely made me to chooes proper tags and selector and how they functions correctly. most importantly, how it is important to consolidated and refactoring.
 
+## Table of Contents (Optional)
+
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
 ## Usage 
 
 Here are some quick overview of what I have done 
 
-
-![alt text](./Develop/assets/images/Screenshot 1.jpg)
+```md
+![alt text](./Develop/assets/images/Screenshot 2.jpg)
 ![alt text](./Develop/assets/images/Screenshot 2.jpg)
 ![alt text](./Develop/assets/images/Screenshot 3.jpg)
 
+```
 
 ### Technology
     - html
