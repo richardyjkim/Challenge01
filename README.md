@@ -20,9 +20,9 @@ As I am refactoring I saw some of the Links and Attributes are not properly link
 Here are some quick overview of what I have done 
 
 ```md
-![alt text](./Develop/assets/images/Screenshot 2.jpg)
-![alt text](./Develop/assets/images/Screenshot 2.jpg)
-![alt text](./Develop/assets/images/Screenshot 3.jpg)
+![alt text](./Develop/assets/images/ScreenShot1.jpg)
+![alt text](./Develop/assets/images/ScreenShot2.jpg)
+![alt text](./Develop/assets/images/ScreenShot3.jpg)
 
 ```
 
